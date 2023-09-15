@@ -5,6 +5,7 @@
 .navLinkText {
     color: rgb(85, 53, 64);
 }
+
 .info {
     padding-right: 2vw;
     padding-left: 2vw;
@@ -32,7 +33,6 @@
     box-shadow: rgba(0, 0, 0, 0.5) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
     text-align: center;
 }
-
 
 @media (max-width: 600px) {
     .stretchHeader{
