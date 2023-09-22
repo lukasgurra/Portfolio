@@ -16,7 +16,7 @@ body {
     font-family: 'PoppinsMedium';
 }
 
-.info {
+.textBox {
     padding-right: 2vw;
     padding-left: 2vw;
     padding-top: 1vh;
@@ -56,16 +56,13 @@ a:hover {
     text-align: center;
 }
 
-/* @media (max-width: 600px) {
-    .stretchHeader{
-        width: 100vw !important;
-        margin-left: 0%;
-        padding-left: 0%;
-        border-radius: 0% !important;
+@media (max-width: 600px) {
+    .textBox{
+        width: 100vw;
     }
 }
 
-@media (min-width: 601px) {
+/* @media (min-width: 601px) {
     .stretchHeader{
         max-width: 90vw;
     }
