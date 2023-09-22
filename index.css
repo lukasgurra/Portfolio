@@ -16,6 +16,10 @@ body {
     font-family: 'PoppinsMedium';
 }
 
+.row {
+    width:100%;
+}
+
 .textBox {
     padding-right: 2vw;
     padding-left: 2vw;
