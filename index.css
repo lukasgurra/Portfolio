@@ -32,11 +32,15 @@ a{
     
 }
 
+#logo{
+    width:20rem;
+}
+
 a:hover {
     color: #a79bc4;
 }
 
-.projects {
+/* .projects {
     background-color: rgb(26, 94, 90);
     min-height: 60vh;
     width: 40vw;
@@ -45,10 +49,13 @@ a:hover {
     margin-right: auto;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
     text-align: center;
-}
+} */
 
 @media (max-width: 600px) {
     .textBox{
         width: 100vw;
+    }
+    #logo{
+        width: 15rem;
     }
 }
