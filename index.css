@@ -27,15 +27,6 @@ body {
     font-family: 'PoppinsMedium';
 }
 
-/* .infoLeft {
-    width: 70%;
-    
-}
-
-.infoRight {
-    width: 30%;
-} */
-
 a{
     color: #CEC2ED;
     
@@ -61,9 +52,3 @@ a:hover {
         width: 100vw;
     }
 }
-
-/* @media (min-width: 601px) {
-    .stretchHeader{
-        max-width: 90vw;
-    }
-} */
