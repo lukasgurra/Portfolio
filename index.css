@@ -31,12 +31,11 @@ body {
     font-family: 'PoppinsMedium';
 }
 
-a{
+a {
     color: #CEC2ED;
-    
 }
 
-#logo{
+#logo {
     width:20rem;
 }
 
@@ -56,10 +55,11 @@ a:hover {
 } */
 
 @media (max-width: 600px) {
-    .textBox{
-        width: 100vw;
+    .textBox {
+        width: 100vw; 
     }
-    #logo{
+
+    #logo {
         width: 15rem;
     }
 }
