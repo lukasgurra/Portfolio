@@ -2,9 +2,12 @@
     font-family: 'PoppinsMedium';
     src: url(Poppins-Medium.ttf);
 }
-
+html {
+    overflow-x: hidden;
+}
 body {
     background-color: rgb(232, 230, 230);
+    overflow-x: hidden;
 }
 
 .bgheader {
